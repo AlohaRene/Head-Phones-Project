@@ -1,12 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
-@import url("reset.css");
-@import url("top-jumbo.css");
-@import url("header.css");
-@import url("design-by.css");
-@import url("color-collection.css");
-@import url("blue-print.css");
-@import url("latest.css");
-@import url("footer.css");
+@import url("sass/reset.css");
+@import url("sass/top-jumbo.css");
+@import url("sass/header.css");
+@import url("sass/design-by.css");
+@import url("sass/color-collection.css");
+@import url("sass/blue-print.css");
+@import url("sass/latest.css");
+@import url("sass/footer.css");
 /*
 #fea83b orange
 #6066f2 lightblue
